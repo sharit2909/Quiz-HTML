@@ -1,0 +1,24 @@
+.circulorojo{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.cuadradoverde{
+border: 3px solid green;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.triangulorosa{
+    width: 0px;
+     height: 0px;
+     border-right: 100px solid transparent;
+     border-top: 20px solid transparent;
+     border-left: 100px solid transparent;
+     border-bottom: 100px solid pink;
+    
+
+}
